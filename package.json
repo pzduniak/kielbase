@@ -1,0 +1,19 @@
+{
+  "name": "kielbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Zduniak <piotr@keyba.se>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "keybase-bot": "^3.0.4",
+    "money": "^0.2.0",
+    "open-exchange-rates": "^0.3.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
